@@ -1,2 +1,3 @@
 # mergepeople
-An app that merges people
+
+An app that reads two json files and concatenates and sorts them. 
